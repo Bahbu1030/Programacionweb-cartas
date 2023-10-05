@@ -1,0 +1,58 @@
+*{
+color:#ffffff
+}
+
+body {
+    background-color: #000000; /* Color de fondo: blanco */
+}
+
+h1 {
+    background-color: #000000; /* Color de fondo: blanco */
+    color: #ffffff; /* Color del texto: negro */
+    font-family: 'Arial', 'Helvetica', sans-serif; /* Tipo de letra: Arial, Helvetica o sans-serif */
+    font-size: 24px; /* Tamaño de la letra: 24px */
+    text-align: center; /* Alineación del texto: centrado */
+    
+    
+}
+
+.card {
+    width: 500px; /* Ancho de la carta: 500px */
+    text-align: center; /* Alineación del texto: centrado */
+    display: inline-block; /* Modo de visualización: inline-block */
+    border: 1px solid #d3be454d; /* Borde: 1px sólido negro */
+    border-radius: 30px;
+    background-size: cover; /* La imagen se ajusta al tamaño de la carta */
+
+}
+
+.card h2 {
+    font-size: 24px; /* Tamaño de la letra: 24px */
+    font-weight: bold; /* Negrita */
+}
+
+.card p {
+    font-size: 16px; /* Tamaño de la letra: 16px */
+}
+
+.image {
+    width: 200px; /* Ancho de la imagen: 400px */
+    height: 50%; /* Altura de la imagen: 50% */
+    
+}
+
+.Name-card{
+
+}
+
+.type{
+
+}
+
+.cost{
+
+}
+
+.game{
+
+}
